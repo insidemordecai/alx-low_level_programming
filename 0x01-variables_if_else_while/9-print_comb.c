@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * desc - print all possible combination of single digit numbers
- * 	- in ascending order seperated by commas and followed by a space
+ * main - print all possible combination of single digit numbers
+ *	- in ascending order seperated by commas and followed by a space
+ * Return: 0
  */
 int main(void)
 {
-	int number = 0; 
+	int number = 0;
 
 	while (number < 10)
 	{
