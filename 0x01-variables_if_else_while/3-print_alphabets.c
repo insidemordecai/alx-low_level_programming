@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * desc - print out the alphabet in lowercase followed by uppercase
- * return - 0
+ * Return: 0
  */
 int main(void)
 {

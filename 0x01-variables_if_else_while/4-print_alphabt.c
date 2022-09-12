@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * desc - print alphabet in lowercase except q and e
+ * main - print alphabet in lowercase except q and e
+ * Return: 0
  */
 int main(void)
 {
@@ -12,7 +13,7 @@ int main(void)
 		{
 			alphabet++;
 		}
-		else 
+		else
 		{
 			putchar(alphabet);
 			alphabet++;
