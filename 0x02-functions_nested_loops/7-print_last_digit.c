@@ -3,7 +3,7 @@
 /**
  * print_last_digit - prints last digit of a number
  * @n: received number
- * Returns: last digit
+ * Return: last digit
  */
 int print_last_digit(int n)
 {
