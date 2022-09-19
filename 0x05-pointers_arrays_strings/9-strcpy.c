@@ -16,5 +16,7 @@ char *_strcpy(char *dest, char *src)
 		i++;
 	}
 
+	dest[i] = '\0'; /* copy over the terminating null byte */
+	
 	return (dest);
 }
