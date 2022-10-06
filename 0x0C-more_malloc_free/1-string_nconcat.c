@@ -27,7 +27,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 
 	if (concatString == NULL)
 		return (NULL);
-	
+
 	length = 0;
 
 	/* concatenate the strings */
