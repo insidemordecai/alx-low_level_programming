@@ -2,7 +2,7 @@
 
 /**
  * op_add - sum two numbers
- * @a: first int 
+ * @a: first int
  * @b: second int
  * Return: sum of a and b
  */
